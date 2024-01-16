@@ -1,8 +1,13 @@
 require("@nomicfoundation/hardhat-toolbox");
-// added ether dependencies
-require('@nomiclabs/hardhat-ethers');
+require('@nomiclfoundation/hardhat-ethers');
 
-/** @type import('hardhat/config').HardhatUserConfig */
+// hardhat.config.js
+
+// hardhat.config.js
+
+/**
+ * @type import('hardhat/config').HardhatUserConfig
+ */
 module.exports = {
-  solidity: "0.8.20",
+  solidity: "0.8.4",
 };
