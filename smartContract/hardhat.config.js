@@ -1,4 +1,5 @@
 require("@nomicfoundation/hardhat-toolbox");
+// added ether dependencies
 require('@nomiclabs/hardhat-ethers');
 
 /** @type import('hardhat/config').HardhatUserConfig */
