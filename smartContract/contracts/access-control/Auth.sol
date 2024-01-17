@@ -1,6 +1,6 @@
 // contracts/access-control/Auth.sol
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.4;
+pragma solidity ^0.8.2;
 
 contract Auth {
     address private _administrator;
